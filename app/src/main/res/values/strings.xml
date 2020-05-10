@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExoPlayerDemo</string>
+    <string name="track_selection">Track Selection</string>
+</resources>
